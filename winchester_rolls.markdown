@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Winchester Rolls project
-permalink: /home/
+permalink: /winchesterrolls/
 ---
 
 # The Pipe Rolls of the Bishopric of Winchester
