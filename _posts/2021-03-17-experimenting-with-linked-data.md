@@ -7,7 +7,7 @@ published: True
 ---
 
 # Experimenting with Linked Data
-<iframe style="width: 50vw; height: 50vh; border: none;" src="https://w.wiki/36fX" scrolling="yes" ></iframe>
+<iframe style="width: 50vw; height: 50vh; border: none;" src="https://w.wiki/36fX" referrerpolicy="origin" ></iframe>
 
 This week I was able to poke around a bit with SPARQL queries and get a bit closer to understanding how to deal with some of the data that exists ~in the wild~ in the Wikidata universe on my research subject. I was able to generate the nifty visualization above that displays "Anglican Bishops of Winchester who have a date of death before January 1st, 1600." Except, what I noticed immediately is that there is a problem with both the visualization method (due to data structuring) and precision of information (also due slightly to data, but in a different way). This query is also a Frankenstein's monster of code pulled from several of the example queries, so I'm not sure I could recreate it from scratch, meaning I probably still don't understand SPARQL well enough yet.
 
