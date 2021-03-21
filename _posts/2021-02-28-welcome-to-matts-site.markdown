@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Matt's site!"
 date:   2021-02-28 14:00:00 -0500
 categories: news
