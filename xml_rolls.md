@@ -3,6 +3,10 @@ layout: page
 title: XML Editions
 permalink: /xml_rolls/
 ---
+
+### The documents:
+[1208-1209](https://github.com/comp-methods-fsu-2021/hunter_winchesterrolls/blob/master/XML%20docs/1208-1209.xml)
+
 ### About
 
 On this page you will find links to the various in-progress TEI encoded Winchester Pipe Rolls. In these documents, you will notice that there are currently three main thrusts of encoding for textual enrichment. The first is that of geographic locations, the second is a nascent personography, and the final is an ongoing index of labor roles or "occupations" where stated in reference to a person.
@@ -16,5 +20,3 @@ Where possible, named individuals are identified with a `<persName>` tag. Entrie
 #### A note about occupations
 When referenced in relation to a person, Latin names for professions or occupations are ascribed the `<term>` tag and attributed with one of a set of markers that correspond to that occupation. The occupation attribute tags are displayed at the beginning of the document in the frontmatter head of the document.
 
-### The documents:
-[1208-1209](https://github.com/comp-methods-fsu-2021/hunter_winchesterrolls/blob/master/XML%20docs/1208-1209.xml)
