@@ -28,7 +28,7 @@ twitter_username: bigredmeh
 github_username:  mhunter52
 
 # Build settings
-theme: minima
+remote_theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
