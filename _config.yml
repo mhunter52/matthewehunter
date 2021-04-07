@@ -23,7 +23,7 @@ email: mhunter52@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is the personal research portfolio for Matthew Hunter, Digital Scholarship Librarian at Florida State University and PhD student in medieval English agricultural economics.
 baseurl: "/matthewehunter" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mhunter52.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bigredmeh
 github_username:  mhunter52
 
