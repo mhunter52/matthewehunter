@@ -15,13 +15,15 @@ This repository serves as the home for an in-progress project to analyze the med
 
 
 ## Current volumes
-    Hall, Hubert. The Pipe Roll of the Bishopric of Winchester for the Fourth Year of the Pontificate of Peter Des Roches, 1208-1209. Studies in Economics and Political Science. London, 1903. http://hdl.handle.net/2027/uc2.ark:/13960/t00z76f5t.
+Hall, Hubert. The Pipe Roll of the Bishopric of Winchester for the Fourth Year of the Pontificate of Peter Des Roches, 1208-1209. Studies in Economics and Political Science. London, 1903. http://hdl.handle.net/2027/uc2.ark:/13960/t00z76f5t.<br>
+<br>
+Holt, N. R., ed. The Pipe Roll of the Bishopric of Winchester, 1210-1211 (P.R.O. Eccl. 2-22-159270B). Manchester: University of Manchester Press, 1964. http://hdl.handle.net/2027/mdp.39015027325342.<br>
+<br>
+Page, Mark. The Pipe Roll of the Bishopric of Winchester, 1301-2. Hampshire Record Series, v. 14. Winchester [England]: Hampshire County Council : Distributed by Hampshire Record Office, 1996.<br>
+<br>
+———, ed. The Pipe Roll of the Bishopric of Winchester, 1409-10. Hampshire Record Series 16. Winchester: Hampshire County Council, 1999.<br>
+<br>
 
-	Holt, N. R., ed. The Pipe Roll of the Bishopric of Winchester, 1210-1211 (P.R.O. Eccl. 2-22-159270B). Manchester: University of Manchester Press, 1964. http://hdl.handle.net/2027/mdp.39015027325342.
-
-	Page, Mark. The Pipe Roll of the Bishopric of Winchester, 1301-2. Hampshire Record Series, v. 14. Winchester [England]: Hampshire County Council : Distributed by Hampshire Record Office, 1996.
-
-	———, ed. The Pipe Roll of the Bishopric of Winchester, 1409-10. Hampshire Record Series 16. Winchester: Hampshire County Council, 1999.
 
 ## Planned future volumes
 	Bekar, C. T. (2019). The Persistence of Harvest Shocks in Medieval England. The Journal of Economic History, 79(4), 954–988. https://doi.org/10.1017/S0022050719000524
