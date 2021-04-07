@@ -8,7 +8,7 @@ permalink: /winchesterrolls/
 ***
 
 ## Project Aim
-This repository serves as the home for an in-progress project to analyze the medieval Pipe Rolls of the Bishopric of Winchester. Texts have been selected based on full-text availability and suitability for transformational, programmatic analysis. Four primary texts have been selected based on their completeness and availability. Other texts will be added to fill in gaps in the data where possible, though many other texts focus on individual manors, rather than the entirety of the holdings of the Bishopric. 
+This repository serves as the home for an in-progress project to analyze the medieval Pipe Rolls of the Bishopric of Winchester. Texts have been selected based on full-text availability and suitability for transformational, programmatic analysis. Four primary texts have been selected based on their completeness and availability. Other texts will be added to fill in gaps in the data where possible, though many other texts focus on individual manors, rather than the entirety of the holdings of the Bishopric. This project will eventually aim to incorporate transcriptions of the remaining manorial rolls, though this will require many years of work. In the meantime, this project 
 
 ### Manors of the Bishopric of Winchester
 `[This is where the list of manors will go, in a table, with the Latin and English forms]`
