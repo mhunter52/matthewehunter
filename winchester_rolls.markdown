@@ -8,7 +8,9 @@ permalink: /winchesterrolls/
 ***
 
 ## Project Aim
-This repository serves as the home for an in-progress project to analyze the medieval Pipe Rolls of the Bishopric of Winchester. Texts have been selected based on full-text availability and suitability for transformational, programmatic analysis. Four primary texts have been selected based on their completeness and availability. Other texts will be added to fill in gaps in the data where possible, though many other texts focus on individual manors, rather than the entirety of the holdings of the Bishopric. This project will eventually aim to incorporate transcriptions of the remaining manorial rolls, though this will require many years of work. In the meantime, this project 
+This repository serves as the home for an in-progress project to analyze the medieval Pipe Rolls of the Bishopric of Winchester. At this initial stage, texts have been selected based on full-text availability and suitability for transformational, programmatic analysis. Four primary texts have been selected based on their completeness and availability. These texts are (or will be) encoded with a customized TEI schema that focuses on various informatic elements included in the documents such as people's names, places, categories of labor, labor or wage value, agricultural produce, and the like. Other texts will be added to fill in gaps in the data where possible, though many other texts focus on individual manors, rather than the entirety of the holdings of the Bishopric. This project will eventually aim to incorporate transcriptions of the remaining manorial rolls, though this will require many years of work. In the meantime, this project will grow based on enriching the printed editions of various texts that contain aspects of the Pipe Rolls to fill in gaps where possible.
+
+In addition, this project will provide various computational displays of the data presented in the rolls. Examples of which can be found on the [Data Visualization Page](../visualization/)
 
 ### Manors of the Bishopric of Winchester
 `[This is where the list of manors will go, in a table, with the Latin and English forms]`
@@ -26,19 +28,19 @@ Page, Mark. The Pipe Roll of the Bishopric of Winchester, 1301-2. Hampshire Reco
 
 
 ## Planned future volumes
-	Bekar, C. T. (2019). The Persistence of Harvest Shocks in Medieval England. The Journal of Economic History, 79(4), 954–988. https://doi.org/10.1017/S0022050719000524
-
-	Farmer, D. L. (1977). Grain Yields on the Winchester Manors in the Later Middle Ages. Economic History Review, 30(4), 555.
-
-	Gras, N. S. B., & Gras, E. Culbert. (1930). The economic and social history of an English village (Crawley, Hampshire) A.D. 909-1928 (History e-book project.). Harvard University Press. https://catalog.hathitrust.org/Record/010099272
-
-	Shillibeer, H. B. (1821). The ancient customs of the manor of Taunton Deane: Collected from the records of the manor, presented by the jury at the law-day court, 24th of April 1817, and published under their sanction : to which are prefixed some introductory observations on copyholds in general, and remarks on those of this manor in particular, with the origin, history, and nature of courts leet, and courts baron. Printed by T. Parkhouse for the author; The Making of Modern Law: Legal Treatises, 1800–1926. http://link.gale.com/apps/doc/F0105405682/MOML?u=tall85761&sid=zotero&xid=0f0ffa48
-
-	Stone, D. & Surrey Record Society. (2017). The accounts for the Manor of Esher in the Winchester pipe rolls, 1235-1376.
-
-	Titow, J. (1970). Le climat à travers les rôles de comptabilité de l’évêché de Winchester (1350-1450). Annales, 25(2), 312–350. https://doi.org/10.3406/ahess.1970.422220
-
-	Titow, J. (1972). Winchester yields: A study in medieval agricultural productivity (p. VIII, 151 Seiten :). Univ. Press,.
+<br>Bekar, C. T. (2019). The Persistence of Harvest Shocks in Medieval England.The Journal of Economic History, 79(4), 954–988. https://doi.org/10.1017/S0022050719000524
+<br>
+<br>Farmer, D. L. (1977). Grain Yields on the Winchester Manors in the Later Middle Ages. Economic History Review, 30(4), 555.
+<br>
+<br>Gras, N. S. B., & Gras, E. Culbert. (1930). The economic and social history of an English village (Crawley, Hampshire) A.D. 909-1928 (History e-book project.). Harvard University Press. https://catalog.hathitrust.org/Record/010099272
+<br>
+<br>Shillibeer, H. B. (1821). The ancient customs of the manor of Taunton Deane: Collected from the records of the manor, presented by the jury at the law-day court, 24th of April 1817, and published under their sanction : to which are prefixed some introductory observations on copyholds in general, and remarks on those of this manor in particular, with the origin, history, and nature of courts leet, and courts baron. Printed by T. Parkhouse for the author; The Making of Modern Law: Legal Treatises, 1800–1926. http://link.gale.com/apps/doc/F0105405682/MOML?u=tall85761&sid=zotero&xid=0f0ffa48
+<br>
+<br>Stone, D. & Surrey Record Society. (2017). The accounts for the Manor of Esher in the Winchester pipe rolls, 1235-1376.
+<br>
+<br>Titow, J. (1970). Le climat à travers les rôles de comptabilité de l’évêché de Winchester (1350-1450). Annales, 25(2), 312–350. https://doi.org/10.3406/ahess.1970.422220
+<br>
+<br>Titow, J. (1972). Winchester yields: A study in medieval agricultural productivity (p. VIII, 151 Seiten :). Univ. Press,.
 
 
 
@@ -47,6 +49,7 @@ Page, Mark. The Pipe Roll of the Bishopric of Winchester, 1301-2. Hampshire Reco
 - Separate manors and account categories into discrete tabular data \(partial example available [here](https://github.com/comp-methods-fsu-2021/hunter_winchesterrolls/blob/master/1208-1209_Holt/1208-1209_Holt_z_tabularExperiment-openRefine.tsv) \)
 - Generate clean tabular data for Hall and Page volumes
 - Compile additional published datasets into corpus (TBD)
+- Encode
 
 
 
