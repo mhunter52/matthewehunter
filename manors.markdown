@@ -1,3 +1,4 @@
+---
 layout: page
 title:  "Reading the Manors"
 permalink: /manors/
