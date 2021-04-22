@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Visualizing the Pipe Rolls"
+title:  "Visualizing the Rolls"
 permalink: /visualizing/
 ---
 
