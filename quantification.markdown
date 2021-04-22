@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Quantifying the Pipe Rolls"
+title:  "Quantifying the Rolls"
 permalink: /quantifying/
 ---
 

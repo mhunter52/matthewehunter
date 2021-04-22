@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Winchester Rolls project
+title: About this project
 permalink: /winchesterrolls/
 ---
 
