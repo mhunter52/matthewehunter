@@ -1,5 +1,6 @@
 layout: page
 title:  "Quantifying the Pipe Rolls"
+permalink: /quantifying/
 ---
 
 # Experimenting with Quantifying Medieval Manorial Records

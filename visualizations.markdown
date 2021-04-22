@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Visualizing the Pipe Rolls"
+permalink: /visualizing/
 ---
 
 # Experimenting with Data Visualization

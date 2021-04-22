@@ -1,5 +1,6 @@
 layout: page
 title:  "Reading the Manors"
+permalink: /manors/
 ---
 
 | 1209 	| 1211 	| 1302 	| 1410 	|
