@@ -4,6 +4,8 @@ title:  "Reading the Manors"
 permalink: /manors/
 ---
 
+## Manors appearing in Pipe Rolls, by year:
+
 | 1209 	| 1211 	| 1302 	| 1410 	|
 |---	|---	|---	|---	|
 | Adderbury 	| Adderbury 	| Adderbury 	| Adderbury 	|

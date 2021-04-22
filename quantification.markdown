@@ -10,7 +10,9 @@ permalink: /quantifying/
  - [1208-1209 Totals data](https://github.com/comp-methods-fsu-2021/hunter_winchesterrolls/blob/80941f540cbbc760d6618326c4ca4b7a19449a6b/Data%20Files/1209_totals.csv)
  - [1210-1211 Totals data](https://github.com/comp-methods-fsu-2021/hunter_winchesterrolls/blob/80941f540cbbc760d6618326c4ca4b7a19449a6b/Data%20Files/1211_totals.csv)
 
-##### Subsample of Accounting data:
+## Subsample of Accounting data:
+- [Datasets available here](https://github.com/comp-methods-fsu-2021/hunter_winchesterrolls/tree/master/Data%20Files)
+
 <div class='tableauPlaceholder' id='viz1619062405957' style='position: relative'>
 	<noscript>
 		<a href='#'>
