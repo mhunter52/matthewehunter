@@ -32,10 +32,34 @@ theme: minima
 # remote_theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-header_pages:
-  - home.markdown
-  - about.markdown
-  - documentation.md
+
+menu:
+  - label: 'Home'
+    link: '/home/'
+  - label: 'About'
+  sub:
+    - label: 'About this project'
+      link: '/about/'
+    - label: 'About the Manors'
+      link: '/manors/'
+  - label: 'Data'
+  sub:
+    - label: 'XML'
+      link: '/xml_rolls/'
+    - label: 'Roll data'
+      link: 'winchester_rolls/'
+  - label: 'Analysis'
+  sub:
+    - label: 'Visualizations'
+      link: '/visualizations/'
+    - label: 'Quantification'
+      link: '/quantification/'
+
+
+# header_pages:
+#  - home.markdown
+#  - about.markdown
+#  - documentation.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
