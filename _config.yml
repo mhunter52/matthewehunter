@@ -33,9 +33,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
-menu:
-- label: 'Home'
-  link: home.markdown
+header_pages:
+- home.markdown
+- about.markdown
+- documentation.md
+- data.md
+
+#menu:
+#- label: 'Home'
+#  link: home.markdown
 #  - label: 'About'
 #    sub:
 #      - label: 'About this project'
@@ -56,10 +62,7 @@ menu:
 #        link: '/quantification/'
 
 
-# header_pages:
-#  - home.markdown
-#  - about.markdown
-#  - documentation.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
