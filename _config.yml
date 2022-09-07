@@ -33,9 +33,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# menu:
-#  - label: 'Home'
-#    link: '/home/'
+ menu:
+  - label: 'Home'
+    link: '/home/'
 #  - label: 'About'
 #    sub:
 #      - label: 'About this project'
