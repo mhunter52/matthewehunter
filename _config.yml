@@ -35,7 +35,7 @@ plugins:
 
  menu:
   - label: 'Home'
-    link: '/home.markdown'
+    link: home.markdown
 #  - label: 'About'
 #    sub:
 #      - label: 'About this project'
