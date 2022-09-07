@@ -32,6 +32,10 @@ theme: minima
 # remote_theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+header_pages:
+  - home.md
+  - about.md
+  - documentation.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
