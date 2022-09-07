@@ -33,27 +33,27 @@ theme: minima
 plugins:
   - jekyll-feed
 
-menu:
-  - label: 'Home'
-    link: '/home/'
-  - label: 'About'
-    sub:
-      - label: 'About this project'
-        link: '/about/'
-      - label: 'About the Manors'
-        link: '/manors/'
-    - label: 'Data'
-      sub:
-      - label: 'XML'
-        link: '/xml_rolls/'
-      - label: 'Roll data'
-        link: 'winchester_rolls/'
-    - label: 'Analysis'
-      sub:
-      - label: 'Visualizations'
-        link: '/visualizations/'
-      - label: 'Quantification'
-        link: '/quantification/'
+# menu:
+#  - label: 'Home'
+#    link: '/home/'
+#  - label: 'About'
+#    sub:
+#      - label: 'About this project'
+#        link: '/about/'
+#      - label: 'About the Manors'
+#        link: '/manors/'
+#    - label: 'Data'
+#      sub:
+#      - label: 'XML'
+#        link: '/xml_rolls/'
+#      - label: 'Roll data'
+#        link: 'winchester_rolls/'
+#    - label: 'Analysis'
+#      sub:
+#      - label: 'Visualizations'
+#        link: '/visualizations/'
+#      - label: 'Quantification'
+#        link: '/quantification/'
 
 
 # header_pages:
