@@ -4,9 +4,11 @@ title: Documentation
 permalink: /documentation/
 ---
 
-## Documentation
+# Documentation
 
-### (Content: Holt) Separating the texts
+## Holt
+
+### Separating the texts
 In order to clean the inconsistently OCR-ed files for the pipe rolls I took several steps to deal with frontmatter, backmatter, and formatting concerns with the actual layout of the text.
 
 #### Steps taken
